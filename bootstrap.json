@@ -47,5 +47,6 @@
     ]
   },
   "status": "bootstrap-only",
-  "notes": "Ez a bootstrap manifest csak a teljes alap kliens letöltéséhez tartozik. A tényleges javító/frissítő fájllista és a játék indító EXE beállítása későbbi lépés. Az RAR részeket együttesen, az első részt megnyitva kell kibontani."
+  "notes": "Az első kiadás többrészes RAR, minden részt le kell tölteni és az elsőből kibontani. A patcher ezután megkeresi a Vilion.exe programot a kibontott mappában. Ez a manifest egyelőre csak teljes telepítésre szolgál; a fájlszintű frissítés és javítás később készül.",
+  "game_executable": "Vilion.exe"
 }
