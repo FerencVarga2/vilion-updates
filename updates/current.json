@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "1.0.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "files": [
     {
       "path": "artpclnt.dll",
@@ -1220,6 +1220,12 @@
       "size_bytes": 434508,
       "sha256": "a77c265f230fef8ca2491008daf5ea1252f645aa370dee957e2dd048e74552ef",
       "url": null
+    },
+    {
+      "path": "NAGY.txt",
+      "size_bytes": 275142,
+      "sha256": "ed3dd0cd6af8f0fabf963d9e8c2a03f029bb11c5dc5d901679ad5c503704de5a",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.1/patch-ed3dd0cd6af8f0fabf963d9e8c2a03f029bb11c5dc5d901679ad5c503704de5a.bin"
     },
     {
       "path": "offlineshop/filter_history.cfg",
