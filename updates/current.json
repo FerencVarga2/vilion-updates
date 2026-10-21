@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "1.0.0",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "files": [
     {
       "path": "artpclnt.dll",
@@ -1247,9 +1247,9 @@
     },
     {
       "path": "pack/etc",
-      "size_bytes": 80935441,
-      "sha256": "e90136cbaf3c233cc7287404d02345e76bd0fe2c470c8d55d51edae2f88ed788",
-      "url": null
+      "size_bytes": 81288040,
+      "sha256": "af527acae9a5b388f2402410bb91bc5cace815c259390a32ea6de3794c630773",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.2/patch-af527acae9a5b388f2402410bb91bc5cace815c259390a32ea6de3794c630773.bin"
     },
     {
       "path": "pack/guild",
@@ -1259,15 +1259,15 @@
     },
     {
       "path": "pack/icon",
-      "size_bytes": 16594922,
-      "sha256": "c3402f2b366b023e68458d8366c9f9e97bc69135c0d9b0892a3b4271b128f296",
-      "url": null
+      "size_bytes": 16608657,
+      "sha256": "09164eab95d24869bb7732b686e3bd69e4d9096882d45d13f1b086080fc00dac",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.2/patch-09164eab95d24869bb7732b686e3bd69e4d9096882d45d13f1b086080fc00dac.bin"
     },
     {
       "path": "pack/locale",
-      "size_bytes": 77608027,
-      "sha256": "c534691153ee3b6a577641eb6e0ce1069383341581d751fc647737b68ec94ca7",
-      "url": null
+      "size_bytes": 71834057,
+      "sha256": "60ad5ab34392dea39d4b237d470e0abbe592eee0b3b6047396b17e0c51e6e6e8",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.2/patch-60ad5ab34392dea39d4b237d470e0abbe592eee0b3b6047396b17e0c51e6e6e8.bin"
     },
     {
       "path": "pack/maps",
@@ -1289,9 +1289,9 @@
     },
     {
       "path": "pack/patch_models",
-      "size_bytes": 203170311,
-      "sha256": "1b90af3dd365e04bf1ff8b006c5cc115a7ba92348d1b3c3c6484e8fe8a58f5e3",
-      "url": null
+      "size_bytes": 212944372,
+      "sha256": "326688943def7f3259190ea4640613b50f42a6dbcbf6464813bc8e1ca3cdc876",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.2/patch-326688943def7f3259190ea4640613b50f42a6dbcbf6464813bc8e1ca3cdc876.bin"
     },
     {
       "path": "pack/patch_models2",
@@ -1319,9 +1319,9 @@
     },
     {
       "path": "pack/root",
-      "size_bytes": 33886740,
-      "sha256": "f820278a91f742c614144f5c00cebb4295fe48fd5d7db35d0d437187f45743c5",
-      "url": null
+      "size_bytes": 59438711,
+      "sha256": "9f2aa1356a8f25897dc0c55fd5d359a31110a8a4fedda5072d8c5d8e75a92933",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.2/patch-9f2aa1356a8f25897dc0c55fd5d359a31110a8a4fedda5072d8c5d8e75a92933.bin"
     },
     {
       "path": "pack/seasons",
