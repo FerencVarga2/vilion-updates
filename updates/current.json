@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "1.0.0",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "files": [
     {
       "path": "artpclnt.dll",
@@ -1014,8 +1014,8 @@
     {
       "path": "mark/10_0.tga",
       "size_bytes": 1049126,
-      "sha256": "635e527383338d48bb43d068d713999a48eb8f5b9a44b8f835fbeb9c1c8c1ae5",
-      "url": null
+      "sha256": "f510b2dda3bd22226c8bab8af12a280be9c69e2e0f9dda6a032244f136f971da",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-f510b2dda3bd22226c8bab8af12a280be9c69e2e0f9dda6a032244f136f971da.bin"
     },
     {
       "path": "mfc140.dll",
@@ -1247,9 +1247,9 @@
     },
     {
       "path": "pack/secure/etc.vlp",
-      "size_bytes": 72201553,
-      "sha256": "0c132b4ca22255fa8c678dcba92b264cf4bfe54ffa6337e27b87e028f3b0b5e6",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.3/patch-0c132b4ca22255fa8c678dcba92b264cf4bfe54ffa6337e27b87e028f3b0b5e6.bin"
+      "size_bytes": 72219952,
+      "sha256": "fe44b140a11274012f21fd7a8382773404a35f0ca84163ead33b3e749c244e54",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-fe44b140a11274012f21fd7a8382773404a35f0ca84163ead33b3e749c244e54.bin"
     },
     {
       "path": "pack/secure/guild.vlp",
@@ -1301,9 +1301,9 @@
     },
     {
       "path": "pack/secure/patch_models2.vlp",
-      "size_bytes": 10679222,
-      "sha256": "7d925b9ddb81dfa316f2598116cc04e1d5d43d2e3c456a01971d2fbd06894f41",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.3/patch-7d925b9ddb81dfa316f2598116cc04e1d5d43d2e3c456a01971d2fbd06894f41.bin"
+      "size_bytes": 30676521,
+      "sha256": "4f6d12d67bb5d965818d479194d839f2b10f942d56bf8dcc9b987efb46a18f1f",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-4f6d12d67bb5d965818d479194d839f2b10f942d56bf8dcc9b987efb46a18f1f.bin"
     },
     {
       "path": "pack/secure/patch_systems.vlp",
@@ -1319,9 +1319,9 @@
     },
     {
       "path": "pack/secure/root.vlp",
-      "size_bytes": 19471121,
-      "sha256": "1673375ca255416d23a2b072e2b6e48dafec43d82e8412083311683e3f282811",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.5/patch-1673375ca255416d23a2b072e2b6e48dafec43d82e8412083311683e3f282811.bin"
+      "size_bytes": 19672686,
+      "sha256": "e1920571ac875c58df06094beaebdfd415ab183623df4f69a4f277a89dbbfd4a",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-e1920571ac875c58df06094beaebdfd415ab183623df4f69a4f277a89dbbfd4a.bin"
     },
     {
       "path": "pack/secure/seasons.vlp",
@@ -5836,6 +5836,12 @@
       "url": null
     },
     {
+      "path": "UserData/chatting/teszteres",
+      "size_bytes": 51,
+      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
+    },
+    {
       "path": "UserData/chatting/WariTest",
       "size_bytes": 49,
       "sha256": "1f3b83c2326fd673b8a274582aa969c3186143c941c633f8904685c718931f4a",
@@ -5885,15 +5891,33 @@
     },
     {
       "path": "Vilion.exe",
-      "size_bytes": 6737408,
-      "sha256": "8aec1a0470cfca8d2242cb3dcc4fc0d78c8ceb44aee4a5dc5473687462051adf",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.4/patch-8aec1a0470cfca8d2242cb3dcc4fc0d78c8ceb44aee4a5dc5473687462051adf.bin"
+      "size_bytes": 7292416,
+      "sha256": "aaa5161549899f8dfc6f37ed372cf42f09fd9bc42ff64dc2ad60b98b75dd82e1",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-aaa5161549899f8dfc6f37ed372cf42f09fd9bc42ff64dc2ad60b98b75dd82e1.bin"
+    },
+    {
+      "path": "VilionDX11.ini",
+      "size_bytes": 6237,
+      "sha256": "42d44eeaaba1c254b92bc5c2891de1e36a7c4e7ff30c52bc9b052360b6dea44e",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-42d44eeaaba1c254b92bc5c2891de1e36a7c4e7ff30c52bc9b052360b6dea44e.bin"
     },
     {
       "path": "vilion_client_trace.tsv",
-      "size_bytes": 312702,
-      "sha256": "b96f97db77890e6c40b2ad50f67d43536237261397fa9f9add4005b9732f76b0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.5/patch-b96f97db77890e6c40b2ad50f67d43536237261397fa9f9add4005b9732f76b0.bin"
+      "size_bytes": 877568,
+      "sha256": "2558a0180c98361804340dbbcff1212008eb65e6239769eca32c7abde0ada127",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-2558a0180c98361804340dbbcff1212008eb65e6239769eca32c7abde0ada127.bin"
+    },
+    {
+      "path": "Vilion_crash_dump_BE.reg",
+      "size_bytes": 630,
+      "sha256": "802cfcfbc788d93774a776ef90c3a46f4f0cebf537a4b740a3163cca13f14a8b",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-802cfcfbc788d93774a776ef90c3a46f4f0cebf537a4b740a3163cca13f14a8b.bin"
+    },
+    {
+      "path": "Vilion_crash_dump_KI.reg",
+      "size_bytes": 282,
+      "sha256": "ae41ca7de2e356ce4806c0aaccad8d0aadbf0b661237bdf6c25e4ab7ff83c5cc",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-ae41ca7de2e356ce4806c0aaccad8d0aadbf0b661237bdf6c25e4ab7ff83c5cc.bin"
     }
   ],
   "deleted_paths": [
