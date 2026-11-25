@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "1.0.0",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "files": [
     {
       "path": "artpclnt.dll",
@@ -5904,8 +5904,8 @@
     {
       "path": "Vilion.exe",
       "size_bytes": 7298560,
-      "sha256": "f2198d1b02a795b6ce001a94084bedea4b277592cf4248bdb4e17925a5ea2cf3",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.7/patch-f2198d1b02a795b6ce001a94084bedea4b277592cf4248bdb4e17925a5ea2cf3.bin"
+      "sha256": "d99c69519d21207be86bf1b632589f56440e0552789845579df4ae2111fb6763",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.8/patch-d99c69519d21207be86bf1b632589f56440e0552789845579df4ae2111fb6763.bin"
     },
     {
       "path": "VilionDX11.ini",
