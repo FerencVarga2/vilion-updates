@@ -1276,12 +1276,6 @@
       "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.3/patch-ed6a622db3e4e9f8abdb46cd5897d7fa66a23f0152913bd8cda2df1c313de168.bin"
     },
     {
-      "path": "pack/secure/patch-397f99ec064d78d2d9718678a9754967298b7518a3776319c9521be8693ab42c.bin",
-      "size_bytes": 943959417,
-      "sha256": "397f99ec064d78d2d9718678a9754967298b7518a3776319c9521be8693ab42c",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.4/patch-397f99ec064d78d2d9718678a9754967298b7518a3776319c9521be8693ab42c.bin"
-    },
-    {
       "path": "pack/secure/patch_icons.vlp",
       "size_bytes": 3397402,
       "sha256": "ef37935b319ac9184f22d5ec24eb06fcde8fe7b5d0b7feef3ce26439040dcb55",
@@ -1393,18 +1387,6 @@
       "path": "switchbot_save.pkl",
       "size_bytes": 529,
       "sha256": "b2f8b697a5814ff1e2cf8eeb8915eb371bfe6080fc86cc8e0c07af2e8dc0a076",
-      "url": null
-    },
-    {
-      "path": "temp/Andra.stderr.log",
-      "size_bytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "url": null
-    },
-    {
-      "path": "temp/Andra.stdout.log",
-      "size_bytes": 0,
-      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "url": null
     },
     {
@@ -5761,114 +5743,6 @@
       "path": "upload/Z - Verde.bmp",
       "size_bytes": 822,
       "sha256": "d38017ac1579d9218b34367403db2f6072c70a800c1065115e6d259abe005461",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/Agats(Tulaj)",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/asd",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.5/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
-    },
-    {
-      "path": "UserData/chatting/asd2",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/asd21",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/Feri",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.5/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
-    },
-    {
-      "path": "UserData/chatting/Feri2",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.7/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
-    },
-    {
-      "path": "UserData/chatting/Konor",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.7/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
-    },
-    {
-      "path": "UserData/chatting/m1adj\u00E1nekinevet",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/Mutter",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.5/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
-    },
-    {
-      "path": "UserData/chatting/Mutter2",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.7/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
-    },
-    {
-      "path": "UserData/chatting/NpvmCamus",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/Testing",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/TestRuna",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.5/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
-    },
-    {
-      "path": "UserData/chatting/Teszt",
-      "size_bytes": 74,
-      "sha256": "0f895c79f70d6d8d258186d42c58503c1e6ba03a736e04986d8d589e0be2dc6a",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/Teszter",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/teszteres",
-      "size_bytes": 51,
-      "sha256": "f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.6/patch-f4781e37194e1f2a2da3e6ec88d8ed70b2c3e6d1c93d2874688ceec7099142f0.bin"
-    },
-    {
-      "path": "UserData/chatting/WariTest",
-      "size_bytes": 49,
-      "sha256": "1f3b83c2326fd673b8a274582aa969c3186143c941c633f8904685c718931f4a",
-      "url": null
-    },
-    {
-      "path": "UserData/chatting/[TM]Ragnar",
-      "size_bytes": 49,
-      "sha256": "45c850cc09381b907a68fd8d395a37f3ebb7d5c4ca199af410a3622843669e4d",
       "url": null
     },
     {
