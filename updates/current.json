@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "base_version": "1.0.0",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "files": [
     {
       "path": "artpclnt.dll",
@@ -5789,9 +5789,9 @@
     },
     {
       "path": "VilionPatcher.exe",
-      "size_bytes": 164387151,
-      "sha256": "ebe0aefe196e47bb9ec9f099a12b2c2423baac0993fcf318f5e17cab0f302abc",
-      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.10/patch-ebe0aefe196e47bb9ec9f099a12b2c2423baac0993fcf318f5e17cab0f302abc.bin"
+      "size_bytes": 189803553,
+      "sha256": "02cd7acd13df3975b6256bb44be43f41f5b430ddf32839b404a108ff56c06b7f",
+      "url": "https://github.com/FerencVarga2/vilion-updates/releases/download/v1.0.11/patch-02cd7acd13df3975b6256bb44be43f41f5b430ddf32839b404a108ff56c06b7f.bin"
     },
     {
       "path": "vilion_client_trace.tsv",
